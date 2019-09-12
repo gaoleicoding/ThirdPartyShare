@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".WXEntryActivity" >
+<Button
+        android:id="@+id/share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="分享"
+        android:textSize="23sp" />
+    <Button
+        android:id="@+id/qq_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_below="@+id/share"
+        android:text="QQ登录"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/qq_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/qq_login"
+        android:layout_margin="10dp"
+        android:text="QQ登 出"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/weixin_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/qq_logout"
+        android:layout_margin="10dp"
+        android:text="微信登录"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/weibo_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/weixin_login"
+        android:layout_margin="10dp"
+        android:text="微博登录"
+        android:textSize="23sp" />
+<include
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/share_layout" />
+</RelativeLayout>

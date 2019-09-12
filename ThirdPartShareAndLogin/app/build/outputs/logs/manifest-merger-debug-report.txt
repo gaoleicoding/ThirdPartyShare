@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:design:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2d54321a6ba8583ef0403c4478c928ce/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2e012553bd6c99c9dc981bfb48bbcb05/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ad34a72d08ced23bd888577c1f180a3b/rxpermissions-0.10.2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/81499a5d7358d865651db3d0140465d9/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/36c4c8e246c10f446c706dee7611d012/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/5246234fefe79732402605104998dc80/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/13778949d24bd8c122ca890784045e8d/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/9aaa7c5c71033824070bf4266be8f9b7/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/78bb96e6734555f6709009d392486d47/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/8855a23edee8cbe6fd035819393e7262/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ee46a382891bb582767c97e36dad68c5/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/b622942c13fb82b1c67c14a1f9c7b1c3/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/a1594191f444dc2b5373286ed7deb858/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/07e49fce5d951b8ecaf129d959dd327c/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/063731a446241205f03106be84462f08/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/063a8816dc32e95d2e115666825fe745/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ee24a01db7fee42dd249a33d7822bd17/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/f3edf8dbb0195c846e12893c1baf1bda/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/e7771c7dbba5cd078096bae0c6c611a5/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/1284337b9fe3eda229816b7567e484ea/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/277c49b422f0551b19dbcd10e1402342/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/a47a41765c0ffa7ca0eeba164e27e9a6/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/6db59f01efc919ada68a0ca268b4775d/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/5d3b3485326f14c121ce406d5320ed2e/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/d7c11058c0d8083f25ce242f947e7269/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/fb287ae98a0bb41505c60074fd06c872/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/81d7ff336f1a34bb0cde251502e5d5e0/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/8ae3e09ab4cc36f6585509ac977290d3/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2f251ca5f42e33f65e2c8a98987c2cd9/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/95afde0eccbfc5bb32206623bd0cc073/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/c68e6ebee9d828553d164ee10fbe4b52/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:1-61:12
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:9:5-84
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:9:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:14:22-72
+application
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:16:5-59:19
+MERGED from [com.android.support:design:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2d54321a6ba8583ef0403c4478c928ce/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2d54321a6ba8583ef0403c4478c928ce/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ad34a72d08ced23bd888577c1f180a3b/rxpermissions-0.10.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ad34a72d08ced23bd888577c1f180a3b/rxpermissions-0.10.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/e7771c7dbba5cd078096bae0c6c611a5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/e7771c7dbba5cd078096bae0c6c611a5/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/1284337b9fe3eda229816b7567e484ea/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/1284337b9fe3eda229816b7567e484ea/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/e7771c7dbba5cd078096bae0c6c611a5/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:20:9-65
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:17:9-68
+uses-library#org.apache.http.legacy
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:23:13-50
+activity#com.kingdowin.gosu.wxapi.WXEntryActivity
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:26:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.tencent.tauth.AuthActivity
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:34:9-47:20
+	android:launchMode
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:36:13-44
+	android:noHistory
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:35:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent222222
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:38:13-46:29
+action#android.intent.action.VIEW
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:41:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:42:27-75
+data
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:44:17-56
+	android:scheme
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:44:23-53
+activity#com.tencent.connect.common.AssistActivity
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:48:9-52:75
+	android:screenOrientation
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:51:13-49
+	android:configChanges
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:50:13-63
+	android:theme
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:49:13-69
+activity#com.sina.weibo.sdk.component.WeiboSdkBrowser
+ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:53:9-58:20
+	android:windowSoftInputMode
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:57:13-55
+	android:exported
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:56:13-37
+	android:configChanges
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:55:13-63
+	android:name
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml:54:13-72
+uses-sdk
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2d54321a6ba8583ef0403c4478c928ce/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2d54321a6ba8583ef0403c4478c928ce/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2e012553bd6c99c9dc981bfb48bbcb05/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2e012553bd6c99c9dc981bfb48bbcb05/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ad34a72d08ced23bd888577c1f180a3b/rxpermissions-0.10.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ad34a72d08ced23bd888577c1f180a3b/rxpermissions-0.10.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/81499a5d7358d865651db3d0140465d9/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/81499a5d7358d865651db3d0140465d9/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/36c4c8e246c10f446c706dee7611d012/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/36c4c8e246c10f446c706dee7611d012/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/5246234fefe79732402605104998dc80/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/5246234fefe79732402605104998dc80/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/13778949d24bd8c122ca890784045e8d/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/13778949d24bd8c122ca890784045e8d/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/9aaa7c5c71033824070bf4266be8f9b7/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/9aaa7c5c71033824070bf4266be8f9b7/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/78bb96e6734555f6709009d392486d47/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/78bb96e6734555f6709009d392486d47/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/8855a23edee8cbe6fd035819393e7262/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/8855a23edee8cbe6fd035819393e7262/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ee46a382891bb582767c97e36dad68c5/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ee46a382891bb582767c97e36dad68c5/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/b622942c13fb82b1c67c14a1f9c7b1c3/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/b622942c13fb82b1c67c14a1f9c7b1c3/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/a1594191f444dc2b5373286ed7deb858/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/a1594191f444dc2b5373286ed7deb858/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/07e49fce5d951b8ecaf129d959dd327c/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/07e49fce5d951b8ecaf129d959dd327c/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/063731a446241205f03106be84462f08/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/063731a446241205f03106be84462f08/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/063a8816dc32e95d2e115666825fe745/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/063a8816dc32e95d2e115666825fe745/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ee24a01db7fee42dd249a33d7822bd17/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/ee24a01db7fee42dd249a33d7822bd17/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/f3edf8dbb0195c846e12893c1baf1bda/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/f3edf8dbb0195c846e12893c1baf1bda/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/e7771c7dbba5cd078096bae0c6c611a5/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/e7771c7dbba5cd078096bae0c6c611a5/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/1284337b9fe3eda229816b7567e484ea/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/1284337b9fe3eda229816b7567e484ea/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/277c49b422f0551b19dbcd10e1402342/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/277c49b422f0551b19dbcd10e1402342/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/a47a41765c0ffa7ca0eeba164e27e9a6/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/a47a41765c0ffa7ca0eeba164e27e9a6/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/6db59f01efc919ada68a0ca268b4775d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/6db59f01efc919ada68a0ca268b4775d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/5d3b3485326f14c121ce406d5320ed2e/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/5d3b3485326f14c121ce406d5320ed2e/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/d7c11058c0d8083f25ce242f947e7269/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/d7c11058c0d8083f25ce242f947e7269/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/fb287ae98a0bb41505c60074fd06c872/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/fb287ae98a0bb41505c60074fd06c872/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/81d7ff336f1a34bb0cde251502e5d5e0/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/81d7ff336f1a34bb0cde251502e5d5e0/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/8ae3e09ab4cc36f6585509ac977290d3/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/8ae3e09ab4cc36f6585509ac977290d3/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2f251ca5f42e33f65e2c8a98987c2cd9/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/2f251ca5f42e33f65e2c8a98987c2cd9/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/95afde0eccbfc5bb32206623bd0cc073/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/95afde0eccbfc5bb32206623bd0cc073/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/c68e6ebee9d828553d164ee10fbe4b52/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gaolei/.gradle/caches/transforms-2/files-2.1/c68e6ebee9d828553d164ee10fbe4b52/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaolei/gaolei/Android/Github2/ThirdPartyShare/ThirdPartShareAndLogin/app/src/main/AndroidManifest.xml

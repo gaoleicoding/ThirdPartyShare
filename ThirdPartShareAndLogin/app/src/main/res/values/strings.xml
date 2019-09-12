@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">第三方分享和登陆</string>
+    <string name="auth_success">授权成功</string>
+    <string name="auth_failure">授权失败</string>
+    <string name="auth_cancel">取消授权</string>
+    <string name="auth_deny">取消拒绝</string>
+<string name="share_gosu">分享GOSU</string>
+<string name="app_gosu">高手GOSU</string>
+<string name="share_success">分享成功</string>
+    <string name="share_failure">分享失败</string>
+    <string name="share_cancel">分享取消</string>
+    <string name="app_share_content">【高手GOSU】是一款游戏视频观看和社交APP</string>
+                                                 <string name="company_website">"http://www.kingdowin.com/"</string>
+</resources>
